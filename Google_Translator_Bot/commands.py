@@ -11,18 +11,18 @@ async def start_main(main, update):
             [
                 [
                     InlineKeyboardButton(
-                        text = "Support Group",
-                        url="t.me/Mo_Tech_Group"
+                        text = "Support Developer",
+                        url="https://instagram.com/mirshad_kvr?utm_medium=copy_link"
                     ),
                     InlineKeyboardButton(
                         text = "Open Source",
-                        url = "https://github.com/PR0FESS0R-99/Google-Translater-Bot"
+                        url = "https://instagram.com/mirshad_kvr?utm_medium=copy_link"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text = "📢 Join Updates Channel 📢" ,
-                        url="t.me/Mo_Tech_YT"
+                        text = "📢 Developer 📢" ,
+                        url="t.me/dev_mirshad"
                     )
                 ]
             ]
@@ -38,8 +38,8 @@ async def about_main(main, update):
             [
                 [
                     InlineKeyboardButton(
-                        text = "📢 Join Updates Channel 📢" ,
-                        url="t.me/Mo_Tech_YT"
+                        text = "📢 Developer 📢" ,
+                        url="t.me/dev_mirshad"
                     )
                 ]
             ]
